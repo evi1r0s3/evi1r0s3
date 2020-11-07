@@ -8,7 +8,7 @@
 
 <p align="center">
 
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges 
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/firefox.svg" alt="firefox" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/edge.svg" alt="edge" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
@@ -19,7 +19,7 @@
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/vr.svg" alt="vr" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/misc/security.svg" alt="bash" style="vertical-align:top; margin:4px">
-
+-->
 </p>
 
 
