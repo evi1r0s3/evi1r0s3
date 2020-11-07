@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-### Hi there 👋
 <p align="center">
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="170px">
 </p>
 
 
 
-### - I like
 <p align="center">
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
