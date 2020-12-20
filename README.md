@@ -10,4 +10,3 @@
 
 
 </p>
-<script src="https://www.hackthebox.eu/badge/454091"></script>
