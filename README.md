@@ -8,6 +8,6 @@
 
 <p align="center">
 <img src="http://www.hackthebox.eu/badge/image/454091" alt="Hack The Box">
-<script src="https://tryhackme.com/badge/108991"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/citnrl2c1h.png" alt="TryHackMe">
 </p>
 
