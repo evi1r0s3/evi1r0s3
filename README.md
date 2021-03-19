@@ -7,6 +7,7 @@
 
 
 <p align="center">
+  每日阅读分享::<a src="https://t.me/evi1_f4iry">{{夏}} evi1_f4iry 的乾坤袋</a>
 <img src="http://www.hackthebox.eu/badge/image/454091" alt="Hack The Box">
 </p>
 
