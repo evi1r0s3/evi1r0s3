@@ -4,7 +4,9 @@
 <img src="1500x500.jpeg">
 </p>
 
-
+<p align="center">
+<img src="PWK-OSCP-badge.png">
+</p>
 
 <p align="center">
   每日阅读分享::<a href="https://t.me/evi1_f4iry">{{夏}} evi1_f4iry 的乾坤袋</a>
