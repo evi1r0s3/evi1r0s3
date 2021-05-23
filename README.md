@@ -12,7 +12,7 @@
   每日阅读分享::<a href="https://t.me/evi1_f4iry">{{夏}} evi1_f4iry 的乾坤袋</a>
 </p>
 <p align="center">
-  Email::<a href="evi1_f4iry@protonmail.com">evi1_f4iry@protonmail.com</a>Twitter::<a href="https://twitter.com/evi1_f4iry">@evi1_f4iry</a>
+  Email::<a href="evi1_f4iry@protonmail.com">evi1_f4iry@protonmail.com</a>.   Twitter::<a href="https://twitter.com/evi1_f4iry">@evi1_f4iry</a>
 </p>
 
 <p align="center">
