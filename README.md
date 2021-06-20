@@ -16,6 +16,6 @@
 </p>
 
 <p align="center">
-<img src="http://www.hackthebox.eu/badge/image/454091" alt="Hack The Box">
+<img src="454091.png" alt="Hack The Box">
 </p>
 
