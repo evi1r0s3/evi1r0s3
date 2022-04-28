@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="PWK-OSCP-badge.png" width="10%">
+<img src="PWK-OSCP-badge.png" width="10%"><img src="1644595125124808271808325719972.png" width="10%">
 </p>
 
 <p align="center">
