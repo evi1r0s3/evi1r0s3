@@ -19,12 +19,14 @@
 <img src="454091.png" alt="Hack The Box">
 </p>
 
-
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=evi1r0s3&count_private=true&show_icons=true&theme=dracula" />
 </a>
-<p></p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evi1r0s3&layout=codefaultmpact&langs_count=10&card_width=640&exclude_repo=evi1r0s3.github.io" />
-</a>
+</p>
 
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evi1r0s3&layout=default&langs_count=10&card_width=640&" />
+</a>
+</p>
