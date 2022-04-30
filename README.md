@@ -18,10 +18,10 @@
 <p align="center">
 <img src="454091.png" alt="Hack The Box">
 </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=evi1r0s3&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/top-langs/?username=evi1r0s3&layout=compact&langs_count=10" />
+</a>
 
-<div align="left">
-![stats](https://github-readme-stats.vercel.app/api?username=evi1r0s3&count_private=true&show_icons=true&theme=dracula)
-</div>
-<p align="right">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evi1r0s3&layout=compact&langs_count=10)
-</p>
