@@ -18,3 +18,4 @@
 <p align="center">
 <img src="454091.png" alt="Hack The Box">
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evi1r0s3&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
