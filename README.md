@@ -25,3 +25,15 @@
 <p align="center">
 <a href="aweme://wiki">aweme://wiki</a>
 </p>
+<p align="center">
+<a href="aweme://wiki">aweme://wiki</a>
+</p>
+<p align="center">
+<a href="file:///">aweme://wiki</a>
+</p>
+<p align="center">
+<a href="http://192.168.225.1:40009">tbox</a>
+</p>
+<p align="center">
+<a href="file:///system/etc/hosts">hosts</a>
+</p>
