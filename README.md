@@ -19,5 +19,9 @@
 <img src="454091.png" alt="Hack The Box">
 </p>
 
+<p align="center">
 -- quit test --
-<a href="aweme://wiki">awe://wiki</a>
+</p>
+<p align="center">
+<a href="aweme://wiki">aweme://wiki</a>
+</p>
