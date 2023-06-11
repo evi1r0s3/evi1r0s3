@@ -18,22 +18,3 @@
 <p align="center">
 <img src="454091.png" alt="Hack The Box">
 </p>
-
-<p align="center">
--- quit test --
-</p>
-<p align="center">
-<a href="aweme://wiki">aweme://wiki</a>
-</p>
-<p align="center">
-<a href="aweme://wiki">aweme://wiki</a>
-</p>
-<p align="center">
-<a href="file:///">file</a>
-</p>
-<p align="center">
-<a href="http://192.168.225.1:40009">tbox</a>
-</p>
-<p align="center">
-<a href="file:///system/etc/hosts">hosts</a>
-</p>
