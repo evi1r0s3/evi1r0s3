@@ -4,7 +4,7 @@
 <img src="1500x500.jpeg">
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&pause=1000&color=FF00FF&background=FF52BC00&width=610&lines=不+疯+魔+，+不+成+活。" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&pause=1000&color=FF00FF&background=FF52BC00&width=610&lines=不+疯+魔+，+不+成+活。" alt="Typing SVG" style="display: block; text-align: center;"/></a>
 
 
 <p align="center">
