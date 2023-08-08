@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&background=FF52BC00&width=610&lines=不+疯+魔+，+不+成+活。" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
 <img src="PWK-OSCP-badge.png" width="10%"><img src="1644595125124808271808325719972.png" width="10%">
 </p>
 
@@ -21,5 +25,5 @@
 
 </p>
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evi1r0s3&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evi1r0s3&layout=compact&langs_count=8&theme=dracula)](https://github.com/evi1r0s3/github-readme-stats)
 </p>
