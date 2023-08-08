@@ -2,11 +2,12 @@
 
 <p align="center">
 <img src="1500x500.jpeg">
-</p>
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&pause=1000&color=FF00FF&background=FF52BC00&width=610&lines=不+疯+魔+，+不+成+活。" alt="Typing SVG"/></a>
 </div>
+</p>
+
+
 
 <p align="center">
 <img src="PWK-OSCP-badge.png" width="10%"><img src="1644595125124808271808325719972.png" width="10%">
