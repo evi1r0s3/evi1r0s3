@@ -22,6 +22,3 @@
 <p align="center">
 <img src="454091.png" alt="Hack The Box">
 </p>
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evi1r0s3&layout=compact&langs_count=8&theme=dracula&hide=scss)](https://github.com/evi1r0s3/github-readme-stats)
-</div>
